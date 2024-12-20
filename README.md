@@ -82,5 +82,4 @@ For data analysis and manipulation, use **NumPy** and **Pandas**.
 **MySQL** for database administration.
 
 ---
-For any questions or issues, feel free to contact **[your email]**.
 
